@@ -23,11 +23,6 @@ const DonutChart = () => {
             })
     }, [])
 
-
-    //  const mockData = {
-    //     labels: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
-    //   }
-
     const options = {
         legend: {
             show: true
